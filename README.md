@@ -10,7 +10,7 @@ Use AWS S3 to host a static website and manage object storage using AWS CLI.
 ## Basic Object Operations
  Uploaded, retrieved, and deleted 'test-txt'
  ![image](https://github.com/user-attachments/assets/736382a7-c6c3-4d42-8e4b-4ecbd3d4ed02)
--![image](https://github.com/user-attachments/assets/c73481f5-08f7-4c74-b230-f590be551a5f)
+ ![image](https://github.com/user-attachments/assets/c73481f5-08f7-4c74-b230-f590be551a5f)
 
 Opened the CLI to interact with my Bucket through Terminal and used some of the commands below:
    1. AWS S3 ls - to list out the items in my bucket
@@ -21,6 +21,7 @@ Opened the CLI to interact with my Bucket through Terminal and used some of the 
 ## Public Access Configuration
 - Applied public-read ACL
 - Added bucket policy
+- Enabled Static Website
 
  
 ## Website Hosting
