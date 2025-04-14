@@ -26,9 +26,9 @@ Opened the CLI to interact with my Bucket through Terminal and used some of the 
  
 ## Website Hosting
 
- Mentee: Ada Patricia
-Project: HTML portfolio
-Hosted URL: http://misolamaceproject.s3-website-us-east-1.amazonaws.com/index.html
+- Mentee Name: Ada Patricia
+- Project: HTML portfolio
+- Hosted URL: http://misolamaceproject.s3-website-us-east-1.amazonaws.com/index.html
 
 
 
