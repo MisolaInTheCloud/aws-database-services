@@ -1,21 +1,41 @@
-# AWS Storage Services L
+## Objective
+Use AWS S3 to host a static website and manage object storage using AWS CLI.
 
 ## Steps  
-1. I created my bucket: 'misolamaceproject'
+## S3 Bucket Created
+- Name: 'misolamaceproject'
+- Region: 'us-east-1'
    ![image](https://github.com/user-attachments/assets/50cbac52-271e-4304-81cb-43d4087324a0)
-
-   2. Uploaded HTML code from Patricia ADA: 
- 
-3. Opened the CLI to interact with my Bucket through Terminal and used some of the commands below:
-AWS S3 ls - to list out the items in my bucket
-aws s3 cp test.txt s3://misolamaceproject/
-aws s3 cp s3://misolamaceproject/test.txt .
-aws s3 rm s3://misolamaceproject/test.txt
+  
+## Basic Object Operations
+- Uploaded, retrieved, and deleted 'test-txt'
  ![image](https://github.com/user-attachments/assets/736382a7-c6c3-4d42-8e4b-4ecbd3d4ed02)
    - ![image](https://github.com/user-attachments/assets/c73481f5-08f7-4c74-b230-f590be551a5f)
-  
-   - ![image](https://github.com/user-attachments/assets/9b9b33b1-4f6c-4059-b88a-b317133ba298)
+Opened the CLI to interact with my Bucket through Terminal and used some of the commands below:
+   1. AWS S3 ls - to list out the items in my bucket
+   2. aws s3 cp test.txt s3://misolamaceproject/
+   3. aws s3 cp s3://misolamaceproject/test.txt
+   4. aws s3 rm s3://misolamaceproject/test.txt
 
+## Public Access Configuration
+- Applied public-read ACL
+- Added bucket policy
+
+ 
+## Website Hosting
+ Mentee: Ada Patricia
+Project: HTML portfolio
+Hosted URL: http://misolamaceproject.s3-website-us-east-1.amazonaws.com/index.html
+
+
+
+
+# Error encountered. 
+
+1. I got an 'Access Denied' error message from my bucket, so I had to edit my 'Bucket Policy' in JSON Format.
+     -![image](https://github.com/user-attachments/assets/9b9b33b1-4f6c-4059-b88a-b317133ba298)
+  
+2. This was resolved and my website went live. 
 
 ![image](https://github.com/user-attachments/assets/18e23a27-7494-4d79-8031-43b485e3a858)
 
