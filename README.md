@@ -9,34 +9,34 @@ This project demonstrates:
 
 ## Instructions Followed
 
-- Launched RDS MySQL instance: <img width="940" alt="image" src="<img width="807" alt="image" src="https://github.com/user-attachments/assets/99d75032-691b-40b7-8cac-9bca99fdb9e0" 
+- Launched RDS MySQL instance: <img width="940" alt="image" src="<img width="807" alt="image" src="https://github.com/user-attachments/assets/99d75032-691b-40b7-8cac-9bca99fdb9e0"/>
 
-- Configuration page: <img width="566" alt="<img width="628" alt="image" src="https://github.com/user-attachments/assets/f06fcbb9-e240-44b9-ba1c-ccf7a71ed635"
+- Configuration page: <img width="566" alt="<img width="628" alt="image" src="https://github.com/user-attachments/assets/f06fcbb9-e240-44b9-ba1c-ccf7a71ed635"/>
   
 
-- Connected via MySQL CLI: <img width="505" alt="image" src="https://github.com/user-attachments/assets/44c978d9-94ef-493e-8d50-de91aeec747d" 
+- Connected via MySQL CLI: <img width="505" alt="image" src="https://github.com/user-attachments/assets/44c978d9-94ef-493e-8d50-de91aeec747d"/>
 
 ### SQL Operations Performed 
 
 - Created a database and table:
-"https://github.com/user-attachments/assets/83d89821-fc8e-4a16-b6fd-5314a0d62835"
+<img width="617" alt="image" src="https://github.com/user-attachments/assets/83d89821-fc8e-4a16-b6fd-5314a0d62835"/>
 
 - Inserted, selected, updated, and deleted records:
 
- "https://github.com/user-attachments/assets/4f7bebe0-1748-4e80-ac66-bcde8c3cf198" 
+ <img width="617" alt="image" src="https://github.com/user-attachments/assets/4f7bebe0-1748-4e80-ac66-bcde8c3cf198"/>
 
-"https://github.com/user-attachments/assets/12adab38-7fd3-4aed-a4ba-5e2584a111e9"
+<img width="617" alt="image" src="https://github.com/user-attachments/assets/12adab38-7fd3-4aed-a4ba-5e2584a111e9"/>
 
-"https://github.com/user-attachments/assets/1b81016e-674d-4657-b51c-12169a6b501e" 
+<img width="617" alt="image" src="https://github.com/user-attachments/assets/1b81016e-674d-4657-b51c-12169a6b501e"/>
 
 
 - Created Dynamodb table and inserted sample items:
 
- "https://github.com/user-attachments/assets/38127813-ec24-420d-9948-47d6712d978f" 
+ <img width="617" alt="image" src="https://github.com/user-attachments/assets/38127813-ec24-420d-9948-47d6712d978f"/>
 
 - Searched for:
 
- "https://github.com/user-attachments/assets/1044eb9b-823d-4b2e-b4e7-1e12bf0b875a" />
+<img width="617" alt="image" src="https://github.com/user-attachments/assets/1044eb9b-823d-4b2e-b4e7-1e12bf0b875a" />
 
 ## Actions Performed
 
@@ -48,4 +48,5 @@ This project demonstrates:
 
 - Deleted Bob's item
 
+<img width="617" alt="image" src="https://github.com/user-attachments/assets/b7ed35e5-53f7-41dd-95ab-4b0ea47287e8" />
 
