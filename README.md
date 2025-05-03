@@ -9,7 +9,7 @@ This project demonstrates:
 
 ## Instructions Followed
 
-- Launched RDS MySQL instance:
+- Launched RDS MySQL instance: 
 
   <img width="807" alt="image" src="https://github.com/user-attachments/assets/99d75032-691b-40b7-8cac-9bca99fdb9e0"/>
 
@@ -18,7 +18,7 @@ This project demonstrates:
   <img width="628" alt="image" src="https://github.com/user-attachments/assets/f06fcbb9-e240-44b9-ba1c-ccf7a71ed635"/>
   
 
-- Connected via MySQL CLI:
+- Connected via MySQL CLI: See the full JSON in dynamodb/items.json.
 
   <img width="505" alt="image" src="https://github.com/user-attachments/assets/44c978d9-94ef-493e-8d50-de91aeec747d"/>
 
