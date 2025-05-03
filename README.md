@@ -55,5 +55,4 @@ This project demonstrates:
 
 - Deleted Bob's item
 
-<img width="617" alt="image" src="https://github.com/user-attachments/assets/b7ed35e5-53f7-41dd-95ab-4b0ea47287e8" />
 
