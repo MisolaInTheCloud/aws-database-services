@@ -1,1 +1,34 @@
+#cli-commands
+
+CREATE DATABASE IF NOT EXISTS testdb;
+USE testdb;
+
+CREATE TABLE users (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  name VARCHAR(100),
+  email VARCHAR(100)
+);
+
+INSERT INTO users (name, email)
+VALUES ('Alice', 'alice@example.com'),
+       ('Bob', 'bob@example.com');
+
+SELECT * FROM users;
+
+UPDATE users SET email = 'alice@newdomain.com' WHERE name = 'Alice';
+
+DELETE FROM users WHERE name = 'Bob';
+
+SELECT * FROM users;
+
+## DynamoDB JSON Items
+
+{
+  "username": {
+    "S": "alice"
+  },
+  "email": {
+    "S": "alice@example.com"
+  }
+}
 
