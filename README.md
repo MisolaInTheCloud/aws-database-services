@@ -11,11 +11,11 @@ This project demonstrates:
 
 - Launched RDS MySQL instance:
 
-  <img width="940" alt="image" src="<img width="807" alt="image" src="https://github.com/user-attachments/assets/99d75032-691b-40b7-8cac-9bca99fdb9e0"/>
+  <img width="807" alt="image" src="https://github.com/user-attachments/assets/99d75032-691b-40b7-8cac-9bca99fdb9e0"/>
 
 - Configuration page:
 
-  <img width="566" alt="<img width="628" alt="image" src="https://github.com/user-attachments/assets/f06fcbb9-e240-44b9-ba1c-ccf7a71ed635"/>
+  <img width="628" alt="image" src="https://github.com/user-attachments/assets/f06fcbb9-e240-44b9-ba1c-ccf7a71ed635"/>
   
 
 - Connected via MySQL CLI:
